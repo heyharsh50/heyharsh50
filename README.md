@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **AI/ML**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **harshraj88253@gmail.com**
 
