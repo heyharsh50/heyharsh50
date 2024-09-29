@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <br><br>
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">I am pursuing Bachelors in Computer Science Engineering. I am a passionate Web Developer.</h3>
@@ -32,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" /></p>
 
-- Pacman
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
