@@ -15,13 +15,6 @@
 
 - 📫 How to reach me **harshraj88253@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hr_raj_88253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hr_raj_88253" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh raj" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100011571090628&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh" height="30" width="40" /></a>
-<a href="https://instagram.com/_____harshraj____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____harshraj____" height="30" width="40" /></a>
-</p>
 
 <div align="center">
 
@@ -42,7 +35,14 @@
 
 <div align="center">
   
-  <h3>Contact Me 📱</h3>
+<h3 align="left">Connect with me:</h3>
+
+  <p align="left">
+<a href="https://twitter.com/hr_raj_88253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hr_raj_88253" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh raj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011571090628&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh" height="30" width="40" /></a>
+<a href="https://instagram.com/_____harshraj____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____harshraj____" height="30" width="40" /></a>
+</p>
     <a href="https://www.linkedin.com/in/harsh-raj-a0a146220/" target="_blank">
     <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
   </a>
