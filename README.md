@@ -42,11 +42,12 @@
 
 <div align="center">
   
-  <h3>Contact Me</h3>
+  <h3>Contact Me</h3> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
     <a href="https://www.linkedin.com/in/harsh-raj-a0a146220/" target="_blank">
     <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
   </a>
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+
