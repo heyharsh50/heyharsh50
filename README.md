@@ -2,6 +2,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <br><br>
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Harsh Raj" /></a>
+</p>
 <h3 align="center">I am pursuing Bachelors in Computer Science Engineering. I am a passionate Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
