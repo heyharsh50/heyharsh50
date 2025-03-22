@@ -32,16 +32,27 @@
  
 </div>
 
-<div align="center">
- <h3>📝 Top DEV Articles 📝</h3>
- 
- 🔥 [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)  <br/>
- ⚡ [Dependent Props In React Typescript](https://dev.to/danielbellmas/dependent-props-in-react-typescript-2mne)  <br/>
- 🚀 [Preload Fonts](https://dev.to/danielbellmas/preload-fonts-2jh7)  <br/>
-</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" /></p>
+
+
+---
+
+<div align="center">
+  
+  <h3>Contact Me</h3>
+  
+</div>
+
+<br />
+
+  <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
+    <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
+  </a>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
