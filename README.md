@@ -3,7 +3,7 @@
 <br><br>
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">I am pursuing Bachelors in Computer Science Engineering. I am a passionate Web Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyharsh50&label=Profile%20views&color=0e75b6&style=flat" alt="heyharsh50" /> </p>
 
