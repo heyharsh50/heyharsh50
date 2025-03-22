@@ -28,13 +28,19 @@
 
 <h1>Main Tech Stack</h1>
 
- <img src="https://skillicons.dev/icons?i=c,cplusplus,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=c,cpp,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
  
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" /></p>
+<div align="center">
+ <h3>📝 Top DEV Articles 📝</h3>
+ 
+ 🔥 [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)  <br/>
+ ⚡ [Dependent Props In React Typescript](https://dev.to/danielbellmas/dependent-props-in-react-typescript-2mne)  <br/>
+ 🚀 [Preload Fonts](https://dev.to/danielbellmas/preload-fonts-2jh7)  <br/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyharsh50&show_icons=true&locale=en" alt="heyharsh50" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" /></p>
 
