@@ -16,9 +16,7 @@
 - 📫 How to reach me **harshraj88253@gmail.com**
 
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
@@ -41,7 +39,7 @@
   
 <h3 align="left">Connect with me:</h3>
 
-  <p align="left">
+  <p align="center">
 <a href="https://twitter.com/hr_raj_88253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hr_raj_88253" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh raj" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011571090628&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh" height="30" width="40" /></a>
