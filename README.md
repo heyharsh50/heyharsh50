@@ -23,13 +23,10 @@
 <a href="https://instagram.com/_____harshraj____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____harshraj____" height="30" width="40" /></a>
 </p>
 
+
+<div align="center">
+
 <h1>Main Tech Stack</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cplusplus,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
-  </a>
-</p>
-<div>
 
  <img src="https://skillicons.dev/icons?i=c,cplusplus,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
  
