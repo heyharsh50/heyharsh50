@@ -20,19 +20,26 @@
 
 <div align="center">
 
-<h1 align="center">Main Tech Stack</h1>
+  <h1>🚀 Main Tech Stack</h1>
 
- <img src="https://skillicons.dev/icons?i=c,cpp,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
- 
+  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,js,react,html,css,nodejs,mongodb,figma&perline=5" alt="Tech Stack" /> 
+
 </div>
+
 
 <br>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" />
+    </td>
+  </tr>
+</table>
 
 
 
