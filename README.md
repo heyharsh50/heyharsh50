@@ -16,6 +16,10 @@
 - 📫 How to reach me **harshraj88253@gmail.com**
 
 
+<br>
+
+---
+
 <div align="center">
 
 <h1>Main Tech Stack</h1>
