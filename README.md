@@ -29,16 +29,11 @@
 <br>
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyharsh50&show_icons=true&locale=en&layout=compact" alt="heyharsh50" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyharsh50&" alt="heyharsh50" />
+</p>
+
 
 
 
